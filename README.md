@@ -1,10 +1,10 @@
-︵ RINA / RI . SHE / HER. !
+˗ˏˋ♱. RINA / RI . SHE / HER. !
 
-afk ( away from keyboard ) ;                              
-w2i ( whisper to interact ) ;                     
-dnc (do not cover ) ;                                            
-rpdni ( roleplay do not interact ) ;                                   
-dnc ( do not copy ).                                         
+-afk ( away from keyboard ) ;                              
+-w2i ( whisper to interact ) ;                     
+-dnc (do not cover ) ;                                            
+-rpdni ( roleplay do not interact ) ;                                   
+-dnc ( do not copy ).                                         
 
 please do not copy my skins exactly. 
                you can take the idea of color combinations, 
