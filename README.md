@@ -6,7 +6,7 @@
 -rpdni ( roleplay do not interact ) ;                                   
 -dnc ( do not copy ).                                         
 
-please do not copy my skins exactly. 
+!!. please do not copy my skins exactly. 
                you can take the idea of color combinations, 
                                             but please don't copy them completely.
 
